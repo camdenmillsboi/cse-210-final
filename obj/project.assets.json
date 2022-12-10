@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camdo\\OneDrive\\Documents\\new final project\\new final project.csproj",
+      "projectUniqueName": "C:\\Users\\camdo\\OneDrive\\Documents\\cse-210-final\\new final project.csproj",
       "projectName": "new final project",
-      "projectPath": "C:\\Users\\camdo\\OneDrive\\Documents\\new final project\\new final project.csproj",
+      "projectPath": "C:\\Users\\camdo\\OneDrive\\Documents\\cse-210-final\\new final project.csproj",
       "packagesPath": "C:\\Users\\camdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camdo\\OneDrive\\Documents\\new final project\\obj\\",
+      "outputPath": "C:\\Users\\camdo\\OneDrive\\Documents\\cse-210-final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camdo\\AppData\\Roaming\\NuGet\\NuGet.Config"
